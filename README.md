@@ -45,4 +45,4 @@ Error: Cannot divide by zero. Please try again.
 
 ## Author
 
-Hilary Adedoyin — Software Engineering student, Federal University of Technology, Akure (FUTA)
+Hilary Adedoyin 
